@@ -45,11 +45,3 @@
 * **API 开发**: `FastAPI`, `Uvicorn`, `Pydantic`
 * **模型固化**: `Joblib`
 * **前端**: `HTML5`, `CSS3`, `JavaScript` (Fetch API)
-
----
-
-## 🚀 快速启动
-
-### 1. 环境安装
-```bash
-pip install pandas==0.23.4 scikit-learn==0.22.2 lightgbm fastapi uvicorn joblib
